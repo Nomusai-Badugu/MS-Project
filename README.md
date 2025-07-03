@@ -2,7 +2,7 @@
 Kansas Broadband and Usage Analysis
 
 Data Sets
-- 2019 November []
+- 2019 November [https://github.com/Nomusai-Badugu/MS-Project/blob/098a786722654e2007494cadd533d8f4fd70aeaf/broadband_data_2019November.csv]
 - 2020 october [https://github.com/Nomusai-Badugu/MS-Project/blob/6fcf47942e085986e2dcfd394d8a91c49f3498f4/broadband_data_2020October.csv]
 - zipcode [
 - final [
